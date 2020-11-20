@@ -1,1 +1,1 @@
-This is my first Location for Scripts
+This is my first location for scripts
